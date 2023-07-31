@@ -1,0 +1,1 @@
+export const logo = "https://osmosislearn.com/skin/froentend/home/images/osmosislearn_purple_logo.png"

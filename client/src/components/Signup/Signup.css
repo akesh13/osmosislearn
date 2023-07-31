@@ -1,0 +1,11 @@
+.parent{
+    height: 70vh;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.input_1, .input_2{
+    padding: 20px;
+    margin: 30px;
+}

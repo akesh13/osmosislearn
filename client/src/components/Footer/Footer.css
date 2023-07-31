@@ -1,0 +1,18 @@
+.footer_sec_1 {
+  background-color: #82bbd4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer_sec1_child {
+  display: inline-flex;
+  justify-content: space-evenly;
+  gap: 20px;
+  align-items: center;
+}
+.footer_sec_2 {
+  background-color: #92d3de;
+}
+.footer_logo {
+  height: 100px;
+}
